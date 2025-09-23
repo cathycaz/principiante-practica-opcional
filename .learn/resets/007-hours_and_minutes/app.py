@@ -1,9 +1,6 @@
 def hours_minutes(seconds):
   # Your code here
-  hora= seconds//3600
-  remanente= seconds%3600
-  minutos = remanente//60
-  return (hora, minutos)
+  return None
 
 # Invoke the function and pass any integer as its argument
 print(hours_minutes(3900))
