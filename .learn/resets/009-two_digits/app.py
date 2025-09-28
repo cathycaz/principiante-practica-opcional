@@ -1,9 +1,7 @@
 # Complete the function to return the tens digit and the units digit of any interger
 def two_digits(number):
-  number = str(number)
-  numero_1 = number[0]
-  numero_2 = number[1]
-  return int(numero_1), int(numero_2)
+  # Your code here
+  return None
    
 
 # Invoke the function with any two digit integer as its argument

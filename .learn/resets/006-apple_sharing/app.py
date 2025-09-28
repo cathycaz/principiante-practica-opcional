@@ -1,8 +1,6 @@
 def apple_sharing(n,k):
   # Your code here
- divisibles = k//n
- indivisibles= k%n
- return (divisibles, indivisibles)
+  return None
  
 
 print(apple_sharing(6,50))
