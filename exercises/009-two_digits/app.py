@@ -8,3 +8,10 @@ def two_digits(number):
 
 # Invoke the function with any two digit integer as its argument
 print(two_digits(79))
+
+def two_digits1(number):
+  numero_1 = number//10
+  numero_2 = number%10
+  return (numero_1), (numero_2)
+
+print(two_digits1(79))
