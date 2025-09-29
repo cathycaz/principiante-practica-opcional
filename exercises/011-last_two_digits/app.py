@@ -7,4 +7,4 @@ def last_two_digits(num):
 
 
 # Invoke the function with any integer greater than 9
-print(last_two_digits(1234))
+print(last_two_digits(34))

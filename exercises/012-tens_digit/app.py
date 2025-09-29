@@ -7,4 +7,4 @@ def tens_digit(num):
 
 
 # Invoke the function with any integer
-print(tens_digit(1234))
+print(tens_digit(100))
